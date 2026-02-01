@@ -20,7 +20,7 @@
     "protobufjs": "^7.2.4"
   },
   "dependencies": {
-    "node-gyp": "^9.4.0",
+    "node-gyp": "^11.0.0",
     "tslib": "^2.4.0"
   },
   "repository": "git@github.com:apache/fory.git",
